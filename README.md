@@ -12,3 +12,6 @@ This project is organised as follows:
 (c) hyper-parameters tuning
 
 (d) techniques for dimensionality reduction
+
+
+Dataset: https://raw.githubusercontent.com/bot13956/ML_Model_for_Predicting_Ships_Crew_Size/master/cruise_ship_info.csv
