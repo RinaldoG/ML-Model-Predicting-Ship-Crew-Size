@@ -5,7 +5,7 @@ We build a simple model using the cruise_ship_info.csv data set for predicting a
 
 This project is organised as follows:
 
-(a) data preprocessing and variable selection
+(a) data pre-processing and variable selection
 
 (b) basic regression model
 
